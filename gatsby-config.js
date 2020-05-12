@@ -7,13 +7,13 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `artyfact`,
+    author: `artyfact - Rowland Corentin`,
+    description: `My home on the web`,
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        name: `soundcloud`,
+        url: `https://soundcloud.com/artyfact-music`,
       },
       {
         name: `github`,
